@@ -23,6 +23,11 @@
     SKELETON
 -------------------------------------------------------------------*/
 
+.center {
+display: flex;
+justify-content: center;
+}
+
 body {
     color: #999999;
     font-size: 14px;
