@@ -1340,11 +1340,13 @@ hr.invis1 {
 	border-radius: 0px;
 }
 
+.portfo{
+    margin-bottom: 30px;
+}
 
 .gallery-single{
 	margin: 30px 15px;
     height:350px;
-
 }
 
 .gallery-single img{
@@ -1444,7 +1446,7 @@ img-fluid{
 }
 
 .post-info{
-	padding: 0px 15px 40px 15px;
+	padding: 0px 15px 20px 15px;
 	background: #ffffff;
 	text-align: left;
 	margin-top: 30px;
@@ -1469,7 +1471,6 @@ img-fluid{
 	display: inline-block;
 	text-align: center;
 }
-
 
 .cert-info{
 	padding: 20px 10px 20px 20px;
@@ -2064,7 +2065,6 @@ select.mobile-device {
     font-weight: 400;
     font-size: 20px;
     text-transform: capitalize;
-    line-height: !important;
 }
 
 .footer {
@@ -2310,7 +2310,7 @@ select.mobile-device {
     color: #999 !important;
     margin: 0 !important;
     padding: 0 !important;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 .stat-wrap p {
@@ -2319,7 +2319,7 @@ select.mobile-device {
     margin: 0;
     font-weight: 300;
     padding: 4px 0 0;
-    line-height: 1 !important:
+    line-height: 1 !important;
 }
 
 #preloader {
